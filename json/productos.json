@@ -1,86 +1,86 @@
 [
-    {
-      "id": 1,
-      "nombre": "Buzo",
-      "precio": 25000,
-      "categoria": "Vestimenta",
-      "imagen": "../imagenes/buzo.jpg"
-    },
-    {
-      "id": 2,
-      "nombre": "Collar",
-      "precio": 425000,
-      "categoria": "Accesorios",
-      "imagen": "../imagenes/collar.png"
-    },
-    {
-      "id": 3,
-      "nombre": "Zapatillas",
-      "precio": 100000,
-      "categoria": "Calzado",
-      "imagen": "../imagenes/zapatillas.webp"
-    },
-    {
-      "id": 4,
-      "nombre": "Remera",
-      "precio": 15000,
-      "categoria": "Vestimenta",
-      "imagen": "../imagenes/remera.jpg"
-    },
-    {
-      "id": 5,
-      "nombre": "Ojotas",
-      "precio": 40000,
-      "categoria": "Calzado",
-      "imagen": "../imagenes/ojotas.png"
-    },
-    {
-      "id": 6,
-      "nombre": "Zapatillas GG",
-      "precio": 150000,
-      "categoria": "Calzado",
-      "imagen": "../imagenes/zapatillas3.png"
-    },
-    {
-      "id": 7,
-      "nombre": "Gorra",
-      "precio": 30000,
-      "categoria": "Accesorios",
-      "imagen": "../imagenes/gorra.webp"
-    },
-    {
-      "id": 8,
-      "nombre": "Buzo",
-      "precio": 27000,
-      "categoria": "Vestimenta",
-      "imagen": "../imagenes/buzo2.png"
-    },
-    {
-      "id": 9,
-      "nombre": "Zapatillas White",
-      "precio": 200000,
-      "categoria": "Calzado",
-      "imagen": "../imagenes/zapatillas4.png"
-    },
-    {
-      "id": 10,
-      "nombre": "Cartera",
-      "precio": 70000,
-      "categoria": "Accesorios",
-      "imagen": "../imagenes/cartera.png"
-    },
-    {
-      "id": 11,
-      "nombre": "Buzo F",
-      "precio": 30000,
-      "categoria": "Vestimenta",
-      "imagen": "../imagenes/buzo3.png"
-    },
-    {
-      "id": 12,
-      "nombre": "Cadena",
-      "precio": 700000,
-      "categoria": "Accesorios",
-      "imagen": "../imagenes/cadena.png"
-    }
-  ]
+  {
+    "id": 1,
+    "nombre": "Buzo",
+    "precio": 25000,
+    "categoria": "Vestimenta",
+    "imagen": "./imagenes/buzo.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Collar",
+    "precio": 425000,
+    "categoria": "Accesorios",
+    "imagen": "./imagenes/collar.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Zapatillas",
+    "precio": 100000,
+    "categoria": "Calzado",
+    "imagen": "./imagenes/zapatillas.webp"
+  },
+  {
+    "id": 4,
+    "nombre": "Remera",
+    "precio": 15000,
+    "categoria": "Vestimenta",
+    "imagen": "./imagenes/remera.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Ojotas",
+    "precio": 40000,
+    "categoria": "Calzado",
+    "imagen": "./imagenes/ojotas.png"
+  },
+  {
+    "id": 6,
+    "nombre": "Zapatillas GG",
+    "precio": 150000,
+    "categoria": "Calzado",
+    "imagen": "./imagenes/zapatillas3.png"
+  },
+  {
+    "id": 7,
+    "nombre": "Gorra",
+    "precio": 30000,
+    "categoria": "Accesorios",
+    "imagen": "./imagenes/gorra.webp"
+  },
+  {
+    "id": 8,
+    "nombre": "Buzo",
+    "precio": 27000,
+    "categoria": "Vestimenta",
+    "imagen": "./imagenes/buzo2.png"
+  },
+  {
+    "id": 9,
+    "nombre": "Zapatillas White",
+    "precio": 200000,
+    "categoria": "Calzado",
+    "imagen": "./imagenes/zapatillas4.png"
+  },
+  {
+    "id": 10,
+    "nombre": "Cartera",
+    "precio": 70000,
+    "categoria": "Accesorios",
+    "imagen": "./imagenes/cartera.png"
+  },
+  {
+    "id": 11,
+    "nombre": "Buzo F",
+    "precio": 30000,
+    "categoria": "Vestimenta",
+    "imagen": "./imagenes/buzo3.png"
+  },
+  {
+    "id": 12,
+    "nombre": "Cadena",
+    "precio": 700000,
+    "categoria": "Accesorios",
+    "imagen": "./imagenes/cadena.png"
+  }
+]
